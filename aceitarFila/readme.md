@@ -13,3 +13,5 @@ Recomendo utilizar esta ferramenta para partidas rápidas, daquelas que não env
    ```bash
    pip install pyautogui
    ```
+3. Inicie a fila no jogo e execute o arquivo main.py
+4. Pronto!
