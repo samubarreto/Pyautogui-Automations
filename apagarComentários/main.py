@@ -9,7 +9,7 @@ while True:
   if local != None:
     x = 1
     print(f'{c} comments were deleted.')
-    py.click(837, local[1]+25, duration=0.2)
+    py.click(837, local[1]+25, duration=0.2) # ALTERE AQUI OS VALORES PARA SEU MONITOR
     sleep(0.2)
     c += 1
     if c % 2 == 0:
