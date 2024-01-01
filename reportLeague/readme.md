@@ -13,6 +13,11 @@ Este projeto foi criado com a finalidade de facilitar o processo de reportar jog
    ```
 
 2. Instale as dependências
+
+   ```bash
+   pip install pyautogui
+   ```
+
 3. Execute o código
 4. Configure o programa
 5. Execute o programa
