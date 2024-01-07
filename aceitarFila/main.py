@@ -1,16 +1,17 @@
 import pyautogui as py
 from time import sleep
+from random import randint
 
-c = 0
+print(f'Na fila')
 
 while True:
-  local = py.locateOnScreen('accept.png', confidence=0.6, grayscale=True)
+  local = py.locateOnScreen('accept.png', confidence=0.6  )
   
   if local != None:
-    print(f'Partida encontrada.')
-    py.click(local, duration=0.2)
-    sleep(14); print('Voltando pra fila.'); print(1)
+    print(f'Partida encontrada')
+    py.click(local, duration=randint(0, 1))
+    sleep(10); print('Na fila')
 
   else:
-    print(f'Na fila ({c})'); sleep(.5)
-    c += 1
+    sleep(.5)
+    
