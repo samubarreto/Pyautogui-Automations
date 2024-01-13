@@ -9,7 +9,7 @@ while True:
   
   if local != None:
     print(f'Partida encontrada')
-    py.click(local, duration=randint(0, 1))
+    py.click(local)
     sleep(10); print('Na fila')
 
   else:
