@@ -5,7 +5,7 @@ from random import randint
 print(f'Na fila')
 
 while True:
-  local = py.locateOnScreen('accept.png', confidence=0.6  )
+  local = py.locateOnScreen('accept.png', confidence=0.65)
   
   if local != None:
     print(f'Partida encontrada')
@@ -14,4 +14,3 @@ while True:
 
   else:
     sleep(.5)
-    
