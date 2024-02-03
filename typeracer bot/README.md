@@ -34,3 +34,7 @@ pip install customtkinter
 7. Inicie o script. Pronto.
 
 **Importante:** Este modo deve ser usado apenas com frases em inglês, pois o PyAutoGUI pode ter problemas com acentuações. Além disso, frases com "?" ou "!" não funcionarão corretamente.
+
+### Demonstração
+
+https://youtu.be/_pX-P0CJsa0
