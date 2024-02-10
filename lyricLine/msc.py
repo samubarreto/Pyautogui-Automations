@@ -4,9 +4,13 @@ import random
 import customtkinter
 import threading
 import unidecode
-  
-song = '''música...
-aq...'''
+
+song = '''insert your song...
+here, and put these...
+3 dots where it's the end of lines...
+then copy it and paste into the...
+entry box that appears when..
+you run the file...'''
   
 def lyric():
   sleep(1)
