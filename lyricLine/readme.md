@@ -17,7 +17,7 @@ pip install customtkinter
 2. Cole a letra da música na variável "song".
 3. Coloque 3 pontos "..." ao fim de cada linha.
 4. Clique no botão "Iniciar".
-5. Cole sua letra no campo.
+5. Cole sua letra no campo."
 6. Abra a plataforma de chat onde deseja enviar a letra.
 7. Posicione o cursor no local onde deseja iniciar a digitação.
 8. O script começará a enviar a letra linha por linha, simulando a digitação manual.
