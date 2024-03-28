@@ -105,7 +105,7 @@ def printLyric():
   for linha in letraSplitada:
     py.write(linha)
     py.press('enter')
-  py.write("Da uma estrela no repo pra dar uma moral :) >> https://github.com/samubarreto/Pyautogui-Automations/tree/main/lyricLine")
+  py.write("Da uma estrela no repo pra dar uma moral, essa é uma das parafernalhas feitas por mim >> https://github.com/samubarreto/Pyautogui-Automations/tree/main/lyricLine")
   py.press('enter')
 
 if __name__ == '__main__':
